@@ -1,0 +1,21 @@
+{
+  "name": "uberdrive",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@babylonjs/core": "^6.9.0",
+    "@babylonjs/inspector": "^6.9.0",
+    "@babylonjs/loaders": "^6.9.0",
+    "vite": "^4.3.2"
+  },
+  "dependencies": {
+    "babylonjs": "^6.45.1",
+    "cannon": "^0.6.2"
+  }
+}
